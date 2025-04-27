@@ -55,12 +55,3 @@
 - 📊 **[2020]** Associate Data Scientist (ADsP)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eunjeechoi&show_icons=true&theme=default" alt="Eunjee's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjeechoi&layout=compact&theme=default" alt="Top Languages" height="180px"/>
-</p>
-
----
