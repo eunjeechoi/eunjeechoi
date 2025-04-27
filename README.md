@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Eunjee Choi
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eunjeechoi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/eunjeechoi)
 
 📧 **Email:** eun09ji@korea.ac.kr  
 🐱 **GitHub:** [eunjeechoi](https://github.com/eunjeechoi)  
