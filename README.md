@@ -35,7 +35,7 @@
 
 ## 📚 Publications
 
-- **[2024]** _CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning_ *(under review)*
+- **[2025]** _CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning_ *(under review)*
 - **[2024]** [TraM: Enhancing User Sleep Prediction with Transformer-based Multivariate Time Series Modeling and Machine Learning Ensembles (ICTC 2024)](https://ieeexplore.ieee.org/abstract/document/10827790)
 - **[2024]** [TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer (ISIF 2024)](https://ieeexplore.ieee.org/document/10706486)
 
