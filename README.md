@@ -58,4 +58,4 @@
 ## 📜 Certifications
 
 - **[2021]** SQL Developer (SQLD)
-- **[2020]** Associate Data Scientist (ADsP)
+- **[2020]** Advanced Data Analytics Semi-Professional (ADsP)
