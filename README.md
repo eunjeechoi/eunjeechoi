@@ -50,8 +50,8 @@
 
 ## 🏆 Awards
 
-- **3rd place**, 1st AI Semiconductor Talent Selection Competition (sLLM/sLM track)
-- **Minister of Science and ICT Award**, 3rd ETRI Human Understanding AI Paper Contest
+- **3rd place**, 1st AI Semiconductor Technology Talent Competition (sLLM/sLM track)
+- **과학기술정보통신부장관상(최우수상)**, 3rd ETRI Human Understanding AI Paper Challenge 
 
 ---
 
