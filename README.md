@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Eunjee Choi
 
-📧 **Email:** eun09ji@korea.ac.kr    
+📧 **Email:** eun09ji@korea.ac.kr       
 🐱 **GitHub:** [eunjeechoi](https://github.com/eunjeechoi)  
 🎓 **Google Scholar:** [Eunjee Choi](https://scholar.google.com/citations?user=YLQ9iDMAAAAJ&hl=ko)
 
