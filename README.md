@@ -11,7 +11,7 @@
 - Vision-Language Pretraining
 - Fake News Detection
 - Data Analysis
-- Gaming Analytics
+- Gaming Analysis
 
 ---
 
