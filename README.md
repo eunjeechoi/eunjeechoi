@@ -40,10 +40,10 @@
 ---
 
 ## 📚 Publications
-- **[2026]** (BMVC)
-- **[2025]** [CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning (IEEE Access)](https://ieeexplore.ieee.org/document/11251247)
-- **[2024]** [TraM: Enhancing User Sleep Prediction with Transformer-based Multivariate Time Series Modeling and Machine Learning Ensembles (ICTC 2024)](https://ieeexplore.ieee.org/abstract/document/10827790)
-- **[2024]** [TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer (ISIF 2024)](https://ieeexplore.ieee.org/document/10706486)
+- **[2026]** SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting (BMVC)
+- **[2025]** CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning (IEEE Access)
+- **[2024]** TraM: Enhancing User Sleep Prediction with Transformer-based Multivariate Time Series Modeling and Machine Learning Ensembles (ICTC 2024)
+- **[2024]** TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer (ISIF 2024)
 
 ---
 
