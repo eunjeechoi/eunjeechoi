@@ -39,6 +39,7 @@
 ---
 
 ## 📚 Publications
+- **[2027]** WristHOI: A Dual Wrist-mounted Dataset for Contact-aware Hand-Object Interaction (WACV)
 - **[2026]** SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting (BMVC)
 - **[2025]** CroMe: Multimodal Fake News Detection using Cross-Modal Tri-Transformer and Metric Learning (IEEE Access)
 - **[2024]** TraM: Enhancing User Sleep Prediction with Transformer-based Multivariate Time Series Modeling and Machine Learning Ensembles (ICTC)
